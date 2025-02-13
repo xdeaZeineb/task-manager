@@ -14,7 +14,6 @@ This is a responsive and interactive Task Manager application built using **Next
 - **Change task stage** (Move tasks between Pending → In Progress → Complete)
 - **Drag and drop functionality** to reorder tasks and to move tasks between stages
 - **Persist tasks using LocalStorage** so that data is not lost on page refresh
-- **Sync tasks across multiple tabs** to reflect changes in real-time
 
 ## Getting Started
 
@@ -57,6 +56,7 @@ Context API: For state management across the application, allowing efficient man
 
 Implemented drag and drop functionality to reorder tasks and move tasks between stages.
 Persisted tasks using LocalStorage to retain data across page refreshes.
+
 ##Live Demo
 
 You can access the deployed app here : https://task-manager-gules-nine-26.vercel.app/.
