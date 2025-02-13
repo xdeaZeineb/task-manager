@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(75deg, #f8dfdba3, #fdfdfd);
+  color: #474b49;
+}
+.dragging-over {
+  background-color: #e0e0e0;
+}
+
+.dragging {
+  opacity: 0.5;
+}
