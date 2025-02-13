@@ -44,7 +44,7 @@ npm run dev
 
 Open your browser and navigate to http://localhost:3000 to see the app in action.
 
-##Implementation Explanation
+## Implementation Explanation
 
 The application is built with the following key technologies:
 
@@ -52,12 +52,12 @@ Next.js: A React framework for building server-side rendered and static web appl
 Tailwind CSS: A utility-first CSS framework for styling the UI components.
 Context API: For state management across the application, allowing efficient management of tasks and their stages.
 
-##Bonus Features
+## Bonus Features
 
 Implemented drag and drop functionality to reorder tasks and move tasks between stages.
 Persisted tasks using LocalStorage to retain data across page refreshes.
 
-##Live Demo
+## Live Demo
 
 You can access the deployed app here : https://task-manager-gules-nine-26.vercel.app/.
 
