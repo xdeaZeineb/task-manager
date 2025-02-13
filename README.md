@@ -26,8 +26,7 @@ Make sure you have **Node.js** and **npm** installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/xdeaZeineb/task-manager.git
    ```
 
 ### Install the dependencies:
